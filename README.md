@@ -1,5 +1,18 @@
 # 💫 About Me:
-I'm building LifeOS, an offline-first productivity app with a glassmorphic UI using React Native.<br>Clean, modern mobile or web apps with meaningful daily-life impact.<br>Performance optimization and advanced animations in React Native.<br>Advanced mobile app architecture and secure local data handling.<br>Building full-stack apps from scratch, UI/UX design, and side-project ideas.<br>I can turn any boring app idea into something aesthetically addictive.
+
+Hey there! I'm Sanket Bharadwaj — a developer, designer, and full-time curious human who’s always building something smarter, smoother, or weirder (in the best possible way). I live at the intersection of clean UI, clever code, and real-world usefulness. Whether I’m crafting futuristic glassmorphism UIs with water physics or training neural networks from scratch using raw JSON datasets, I love turning ideas into polished, powerful tools.
+
+I've built projects like QuickSnip, a fluid, distraction-free snippet manager with export powers and water-inspired UI interactions (no cringy animations, I promise), and Smart Receipt Organizer, a completely frontend-only OCR tool for managing receipts without needing a backend or cloud — because sometimes, simple is smart. I'm also into low-level hardware fun, and have created my own ESP32-based handset running games like Flappy Bird and Space Invaders on a 0.96" OLED, complete with score tracking and menu navigation. Two buttons, full personality.
+
+Right now, I’m deep into AI development with PyTorch, training custom neural networks to do things like recommend mobile phones through intelligent conversations — without relying on APIs or hardcoded logic. I believe the best tech feels like magic but runs on solid ground.
+
+Design matters to me just as much as performance. I focus on creating web experiences that feel alive — responsive, aesthetic, and never overengineered. Whether it's deploying to Vercel, messing with Tailwind CSS, or optimizing animations for mobile-first performance, I'm all about that sweet spot between art and engineering.
+
+> “If it looks good, feels good, and actually helps someone — that’s when I know it’s worth shipping.”
+
+---
+
+🔒 Easter egg: Type sanket.builds("magic") in your console. It won’t do anything. Or maybe it will.
 
 
 ## 🌐 Socials:

@@ -1,85 +1,77 @@
-# 💫 About Me:
+# 👋 Sanket Bharadwaj
 
-Hey there! I'm Sanket Bharadwaj — a developer, designer, and full-time curious human who’s always building something smarter, smoother, or weirder (in the best possible way). I live at the intersection of clean UI, clever code, and real-world usefulness. Whether I’m crafting futuristic glassmorphism UIs with water physics or training neural networks from scratch using raw JSON datasets, I love turning ideas into polished, powerful tools.
+**Developer | Designer | Inventor of weirdly useful things**
 
-🔗 Check out my portfolio: [sanketbharadwaj.vercel.app](https://sanketbharadwaj.vercel.app)
-
-I've built projects like QuickSnip — a fluid, distraction-free snippet manager with export powers and water-inspired UI interactions (no cringy animations, I promise), and Smart Receipt Organizer — a completely frontend-only OCR tool for managing receipts without needing a backend or cloud, because sometimes, simple is smart.
-
-I'm also into low-level hardware fun, and have created my own ESP32-based handset running games like Flappy Bird and Space Invaders on a 0.96" OLED, complete with score tracking and menu navigation. Two buttons, full personality.
-
-Right now, I’m deep into AI development with PyTorch, training custom neural networks to do things like recommend mobile phones through intelligent conversations — without relying on APIs or hardcoded logic. I believe the best tech feels like magic but runs on solid ground.
-
-Design matters to me just as much as performance. I focus on creating web experiences that feel alive — responsive, aesthetic, and never overengineered. Whether it's deploying to Vercel, messing with Tailwind CSS, or optimizing animations for mobile-first performance, I'm all about that sweet spot between art and engineering.
-
-> “If it looks good, feels good, and actually helps someone — that’s when I know it’s worth shipping.”
+[🌐 Portfolio](https://sanketbharadwaj.vercel.app) ・ [🔗 LinkedIn](https://linkedin.com/in/sanket-bharadwaj-a041b6311) ・ [📷 Instagram](https://instagram.com/sanket_half_blood)
 
 ---
 
-🔒 Easter egg: Try typing `sanket.builds("magic")` in the console. It won’t do anything. Or maybe it will.
+### 🧠 Who I Am
+
+I'm Sanket — a full-stack problem solver who loves mixing clean design with smart code.
+
+I build polished, high-performance web tools and AI systems that actually do something useful. Whether it’s a futuristic UI with glassmorphism and water physics, a hardware project on an ESP32, or a neural network trained from scratch — I’m always building things that feel alive and sharp.
+
+I believe great tech should look good, feel good, and help someone — all at once.
 
 ---
 
-## 🌐 Socials:
+### 🔨 What I Build
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanket_half_blood)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-bharadwaj-a041b6311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://sanketbharadwaj.vercel.app)
-
----
-
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+| Project       | Description |
+| ------------- | ----------- |
+| **QuickSnip** | Snippet manager with distraction-free UI and water-like animation |
+| **ShrinKa**   | Python-based URL shortener with instant QR and copy preview |
+| **Smart Receipt Organizer** | Frontend-only OCR receipt manager — no backend, no cloud |
+| **HayateKeys** | Minimal keyboard shortcut explorer for creators and coders |
+| **ESP32 Handset** | OLED-based handheld with Flappy Bird, Space Invaders, menus, and score logic |
 
 ---
 
-## 📊 GitHub Stats:
+### 🚀 What I Know
 
-![](https://github-readme-stats.vercel.app/api?username=Sanket-Bharadwaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sanket-Bharadwaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Bharadwaj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Languages**:  
+`Python`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `Java`
 
----
+**Frontend**:  
+`React`, `Vite`, `Tailwind CSS`, `shadcn/ui`, `Bootstrap`
 
-## 🏆 GitHub Trophies
+**Backend / Infra**:  
+`Flask`, `Node.js`, `Gunicorn`, `Firebase`, `MongoDB`, `MySQL`, `SQLite`, `Postgres`
 
-![](https://github-profile-trophy.vercel.app/?username=Sanket-Bharadwaj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**AI / ML**:  
+`PyTorch`, `NumPy`, `Pandas`, `OpenCV`, `OCR`, `Neural Networks`, `Custom Training Pipelines`
 
----
+**Hardware**:  
+`ESP32`, `Arduino`, `OLED Displays`, `Game Logic`, `I2C`, `UART`
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Sanket-Bharadwaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Design Tools**:  
+`Photoshop`, `Lightroom`, `Canva`
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sanket-Bharadwaj&icon=0&color=0)](https://visitcount.itsvg.in)
+### 💡 Philosophy
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "If it looks good, feels good, and actually helps someone — that's when I know it's worth shipping."
+
+I love performance, polish, and purpose. I don’t believe in overengineering. I believe in **shipping**.
+
+---
+
+### 🧪 Side Experiments
+
+- Training AI to recommend phones through chat — no API, no shortcuts.
+- Building local-first, offline-first web apps with zero cloud dependency.
+- Designing with motion in mind — from hover states to full-on ambient UX.
+
+---
+
+### 🤝 Let’s Connect
+
+Got a cool idea? Want to collab? Just want to vibe over good design and better code?
+
+**DM me → [LinkedIn](https://linkedin.com/in/sanket-bharadwaj-a041b6311)**  
+or visit **[sanketbharadwaj.vercel.app](https://sanketbharadwaj.vercel.app)** to explore more.
+
+---
+

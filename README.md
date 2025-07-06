@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sanket Bharadwaj 👋</h1>
+<h1 align="center">Hey, I'm Sanket Bharadwaj </h1>
 <p align="center">
   Full-stack dev • AI tinkerer • Hardware hacker • UI lover
 </p>

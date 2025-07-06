@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Sanket Bharadwaj </h1>
 <p align="center">
-  Full-stack dev • AI tinkerer • Hardware hacker • UI lover
+  I build fast UIs, train neural nets, wire custom circuits, and design experiences that actually feel good. No limits, no boilerplate — just clever code and clarity.
 </p>
 
 <p align="center">

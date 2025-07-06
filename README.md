@@ -1,3 +1,14 @@
+<h1 align="center">Hey, I'm Sanket Bharadwaj </h1>
+<p align="center">
+  I build fast UIs, train neural nets, wire custom circuits, and design experiences that actually feel good. No limits, no boilerplate — just clever code and clarity.
+</p>
+
+<p align="center">
+  <a href="https://sanketbharadwaj.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/sanket-bharadwaj-a041b6311" target="_blank">LinkedIn</a> • 
+  <a href="https://instagram.com/sanket_half_blood" target="_blank">Instagram</a>
+</p>
+
 
 ## 🧠 About Me
 
@@ -58,14 +69,4 @@ I enjoy building futuristic UIs with glassmorphism, offline-friendly tools, and 
 
 
 
-![github-user-contribution (1)](https://github.com/user-attachments/assets/9944411d-bcd0-4033-9280-5a461bd8dac3)<h1 align="center">Hey, I'm Sanket Bharadwaj </h1>
-<p align="center">
-  I build fast UIs, train neural nets, wire custom circuits, and design experiences that actually feel good. No limits, no boilerplate — just clever code and clarity.
-</p>
-
-<p align="center">
-  <a href="https://sanketbharadwaj.vercel.app" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/sanket-bharadwaj-a041b6311" target="_blank">LinkedIn</a> • 
-  <a href="https://instagram.com/sanket_half_blood" target="_blank">Instagram</a>
-</p>
-
+![github-user-contribution (1)](https://github.com/user-attachments/assets/9944411d-bcd0-4033-9280-5a461bd8dac3)

@@ -3,6 +3,8 @@
   I build fast UIs, train neural nets, wire custom circuits, and design experiences that actually feel good. No limits, no boilerplate — just clever code and clarity.
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Sanket;Explore,+fork,+star,+and+repeat!;" />
+
 <p align="center">
   <a href="https://sanketbharadwaj.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/sanket-bharadwaj-a041b6311" target="_blank">LinkedIn</a> • 

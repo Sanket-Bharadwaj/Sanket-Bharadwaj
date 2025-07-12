@@ -71,3 +71,5 @@ I enjoy building futuristic UIs with glassmorphism, offline-friendly tools, and 
 
 
 ![github-user-contribution (1)](https://github.com/user-attachments/assets/9944411d-bcd0-4033-9280-5a461bd8dac3)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E71HX51N)

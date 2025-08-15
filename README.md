@@ -25,7 +25,7 @@ I enjoy building futuristic UIs with glassmorphism, offline-friendly tools, and 
 - 🔹 **[Kolorr](https://kolorr.vercel.app)** – Minimalist color picker with PWA support
 - 🔹 **[ShrinKa](https://shrinka-fcr8.onrender.com)** – Python URL shortener with QR support
 - 🔹 **[QuickSnip](https://quicksnip-gamma.vercel.app/)** – Local-first snippet manager with water physics UI
-- 🔹 **[PortOS](https://github.com/Sanket-Bharadwaj/PortOS)** – MacOS-inspired personal portfolio
+- 🔹 **[PortOS](https://portos-new.vercel.app)** – MacOS-inspired personal portfolio
 - 🔹 **ESP32 Handset** – OLED device with games like Flappy Bird and Space Invaders
 
 ---

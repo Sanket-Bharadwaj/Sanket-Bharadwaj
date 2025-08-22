@@ -22,11 +22,11 @@ I enjoy building futuristic UIs with glassmorphism, offline-friendly tools, and 
 
 ## 🚀 Featured Projects
 
+- 🔹 **[Wandrous](https://wandrous.vercel.app)** – Premium multi-language travel bucket list with offline PWA support
+- 🔹 **[PortOS](https://portos-new.vercel.app)** – MacOS-inspired personal portfolio
 - 🔹 **[Kolorr](https://kolorr.vercel.app)** – Minimalist color picker with PWA support
 - 🔹 **[ShrinKa](https://shrinka-fcr8.onrender.com)** – Python URL shortener with QR support
 - 🔹 **[QuickSnip](https://quicksnip-gamma.vercel.app/)** – Local-first snippet manager with water physics UI
-- 🔹 **[PortOS](https://portos-new.vercel.app)** – MacOS-inspired personal portfolio
-- 🔹 **ESP32 Handset** – OLED device with games like Flappy Bird and Space Invaders
 
 ---
 

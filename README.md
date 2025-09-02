@@ -71,7 +71,8 @@ I enjoy building futuristic UIs with glassmorphism, offline-friendly tools, and 
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9944411d-bcd0-4033-9280-5a461bd8dac3" alt="github-user-contribution" />
+  <img src="https://github.com/user-attachments/assets/eae4c22c-87ea-4745-a830-4f1b2b7df18c" alt="dark banner" />
 </div>
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E71HX51N)

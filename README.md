@@ -7,7 +7,7 @@
   <a href="https://sanketbharadwaj.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/sanket-bharadwaj-a041b6311" target="_blank">LinkedIn</a> • 
   <a href="https://instagram.com/sanket_half_blood" target="_blank">Instagram</a>
-</p>
+</p> 
 
 ---
 ## 🧠 About Me

@@ -20,9 +20,9 @@
 
 ## 🧠 About Me  
 > I’m a developer, designer, and full-time curious human.  
-> I love crafting futuristic UIs, offline-first tools, and intelligent systems that don’t rely on cloud crutches.  
-> I’ve built everything from an ESP32-based OLED gaming console to a scripting language written in C.  
-> I care about good UX, clean code, and building things that *actually teach or solve something.*
+> I build futuristic UIs, offline-first tools, and intelligent systems that don’t depend on cloud crutches.  
+> My projects range from an ESP32-based OLED gaming console to **Vyom**, a minimal scripting language written in C.  
+> I care about good UX, clean code, and building things that *teach, feel good, or solve something real.*
 
 ---
 

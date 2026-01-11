@@ -102,8 +102,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanket-Bharadwaj&color=4FC3F7&style=for-the-badge" />
-  <br><br>
+<br><br>
   <i>Made with ❤️ by Sanket Bharadwaj</i>
 </div>

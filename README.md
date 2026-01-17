@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hey, I'm Sanket Bharadwaj
 
 ### Developer • Designer • Systems Engineer

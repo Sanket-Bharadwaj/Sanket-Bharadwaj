@@ -5,7 +5,6 @@
 ### Developer • Designer • Systems Engineer
 
 *Building fast UIs, training neural nets, and crafting systems that feel effortless to use*
-
 <br>
 
 <p align="center">

@@ -298,9 +298,6 @@ class MyEngineering:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanket-Bharadwaj&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=FF6B35&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Bharadwaj&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&langs_count=8"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket-Bharadwaj&theme=react&hide_border=true&background=0D1117&stroke=6E40C9&ring=BB86FC&fire=FF6B35&currStreakLabel=BB86FC"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanket-Bharadwaj&theme=react-dark&hide_border=true&bg_color=0D1117&color=BB86FC&line=FF6B35&point=FFFFFF"/>
